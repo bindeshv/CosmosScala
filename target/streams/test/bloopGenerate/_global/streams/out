@@ -1,0 +1,4 @@
+[debug] [cosmosdbgettingstarted-test] Classpath dependencies List()
+[debug] [cosmosdbgettingstarted-test] Dependencies from configurations List(cosmosdbgettingstarted)
+[debug] Bloop wrote the configuration of project 'cosmosdbgettingstarted-test' to 'C:\Users\bindeshv\source\CosmosDbGettingStarted\.bloop\cosmosdbgettingstarted-test.json'
+[success] Generated .bloop\cosmosdbgettingstarted-test.json

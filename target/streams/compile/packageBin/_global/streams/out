@@ -1,0 +1,27 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging C:\Users\bindeshv\source\CosmosDbGettingStarted\target\scala-2.12\scalacosmosquery_2.12-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AccountSettings$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\bindeshv\source\CosmosDbGettingStarted\target\scala-2.12\classes\AccountSettings$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AccountSettings.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\bindeshv\source\CosmosDbGettingStarted\target\scala-2.12\classes\AccountSettings.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DbHelper.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\bindeshv\source\CosmosDbGettingStarted\target\scala-2.12\classes\DbHelper.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MainApp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\bindeshv\source\CosmosDbGettingStarted\target\scala-2.12\classes\MainApp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MainApp$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\bindeshv\source\CosmosDbGettingStarted\target\scala-2.12\classes\MainApp$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MainApp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\bindeshv\source\CosmosDbGettingStarted\target\scala-2.12\classes\MainApp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	models[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\bindeshv\source\CosmosDbGettingStarted\target\scala-2.12\classes\models[0m
+[0m[[0m[0mdebug[0m] [0m[0m	models\Author$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\bindeshv\source\CosmosDbGettingStarted\target\scala-2.12\classes\models\Author$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	models\Author.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\bindeshv\source\CosmosDbGettingStarted\target\scala-2.12\classes\models\Author.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	models\Blog.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\bindeshv\source\CosmosDbGettingStarted\target\scala-2.12\classes\models\Blog.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	models\BlogFactory$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\bindeshv\source\CosmosDbGettingStarted\target\scala-2.12\classes\models\BlogFactory$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	models\BlogFactory.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\bindeshv\source\CosmosDbGettingStarted\target\scala-2.12\classes\models\BlogFactory.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

@@ -1,0 +1,5 @@
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [cosmosdbgettingstarted / Compile / run] Found inputs: C:\Users\bindeshv\source\CosmosDbGettingStarted\*.{java,scala},C:\Users\bindeshv\source\CosmosDbGettingStarted\src\main\java\**\*.{java,scala},C:\Users\bindeshv\source\CosmosDbGettingStarted\src\main\resources\**\*,C:\Users\bindeshv\source\CosmosDbGettingStarted\src\main\scala\**\*.{java,scala},C:\Users\bindeshv\source\CosmosDbGettingStarted\src\main\scala-2.12\**\*.{java,scala}[0m
+[0m[[0m[0minfo[0m] [0m[0m1. Monitoring source files for cosmosdbgettingstarted/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received input event: Run().[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received input event: Run().[0m
